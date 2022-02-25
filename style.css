@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    margin-right: 20%;
+    margin-left: 20%;
+    background-color: burlywood;
+}
+header{
+    color: rgb(132, 161, 15);
+    background: url(maison1.jpg);
+    text-align: center;
+    background-repeat: no-repeat;
+   background-size: cover;
+    font-size: large;
+    
+   
+    height: 400px;
+    
+}
+.accuiel{
+    padding-top: 10%;
+    font-size: xx-large;
+
+}
+.moi{
+ width: 100%;
+ display: flex;
+}
+.moi img{
+    width: 44%;
+    border-radius: 3rem 1rem 3rem 1rem;
+    
+}
+.image2{
+    margin-left: 6%;
+}
+.image3{
+   width: 50%;
+}
+.image4{
+    width: 50%;
+}
+.palais{
+    display: flex;
+}
+.my-home{
+    font-size: xx-large;
+    text-align: center;
+}
+.menu{
+    font-size: xx-large;
+    text-align: center;
+}
+.palais img{
+    width: 50%;
+    border-radius: 3rem 1rem 3rem 1rem;
+    margin-left: 50px;
+}
+.rose{
+    background: url(Rosier-Polyantha-550x410.jpg);
+    background-repeat: no-repeat;
+   background-size: cover;
+    font-size: large;
+    text-align: center;
+    height:400px ;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-repeat: no-repeat;
+   background-size: cover;
+    font-size: large;
+    border-radius: 100PX;
+    color: beige;
+    text-align: center;
+    margin-top: 20px;
+}
+.para{
+    font-size: xx-large;
+    margin-top: 40px;
+    padding-top: 25%;
+    
+}

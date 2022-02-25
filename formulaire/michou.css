@@ -1,0 +1,21 @@
+.ref{
+    text-align: center;
+    color:black;
+    font-size: xx-large;
+}
+body{
+    background-image: url(images.jpeg);
+}
+.rence{
+    display: flex;
+    margin-left: 30%; 
+    flex-direction: column; 
+
+}
+.page{
+    margin-left: 30%;
+}
+input{
+    margin-bottom: 10px;
+    width: 350px;
+}
